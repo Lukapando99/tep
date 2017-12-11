@@ -6,8 +6,8 @@
 <form method="post" action="esegui.php">
 
   <!-- CASELLE DI TESTO -->
-  Nome<br>
-  <input type="text" name="nome"><br>
+  Tipologia<br>
+  <input type="text" name="tipologia"><br>
  
   <!-- SELECTBOX -->
   Paese<br>
